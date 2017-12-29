@@ -36,6 +36,5 @@ except TclError:
 		print()
 		print("Improper Value Entered, please input colors only")
 		print()
-		#sys.exit()
 		do_stuff()
 
